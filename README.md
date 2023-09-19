@@ -1,5 +1,5 @@
 
-# Deploy-a-High-Availaibility-Web-App-Using-Cloud-Formation
+# Deploy-a-High-Availaibility-Web-Service-Using-Cloud-Formation
 
 ## Prerequisites
 A user account with programmatic access to AWS
